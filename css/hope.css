@@ -1,0 +1,117 @@
+.hope{
+
+    margin-top: 143px;
+}
+
+.hope__content{
+    position: relative;
+}
+.hope__tittle{
+        
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;;
+        
+    text-align: center;
+
+    color: #212B31
+}
+.hope__suptittle{
+
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    width: 857px;
+    color: #72787D;
+    margin-left: 100px;
+    margin-top: 17px;
+}
+.hope__name{
+    
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    margin-top: 32px;
+    text-align: center;
+
+    color: #212B31;
+}
+.hope__text{
+    width: 333px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    margin-top: 11px;
+    color: #72787D
+}
+.hope__sector{
+    width: 1056px;
+    display: flex;
+    justify-content: center;
+    margin-top: 48px;
+}
+.hope__box{
+    
+    margin-left: 33px;
+    text-align: center;
+    width: 325px;
+    margin: 0 20px;
+    
+}
+.hope__vector{
+    
+    position: absolute;
+    left: 618px;
+    right: 80px;
+    top: -18px;
+    bottom: 50px; 
+/* 
+    Width:42.13px;
+Height:40.28px;
+Top:5226.48px;
+Left:808px; */
+}
+
+ .hope__footer{
+    width: 1056px;
+    height: 130px;
+    background: #F6F8F9;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 62px ;
+
+    
+} 
+.hope__footer-tittle{
+    margin-top: 49px;
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 32px;
+color: #212B31;
+}
+span{
+    font-weight: 600;
+}
+.hope__icon{
+    margin-top: 44px;
+    margin-left: 42px;
+    margin-right: 26px;
+margin-bottom: 49px;
+
+}
+.hope__btns{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+    

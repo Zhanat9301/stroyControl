@@ -1,0 +1,79 @@
+.deliver__tittle{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+
+    color: #212B31;
+}
+.deliver__suptittle{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    width: 643px;
+    margin: 0 auto;
+    color: #72787D
+}
+.deliver__name{
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+
+
+    color: #212B31;
+}
+.deliver__description{
+        
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #72787D;
+   
+}
+.deliver__box{
+    display: flex;
+    width: 324px;
+    align-items: flex-start;
+}
+.deliver__icon{
+    margin-right: 16px;
+    padding-top: 16px;
+}
+.deliver__sector{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 43px;
+    position: relative;
+}
+span{
+/*     
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    color: #72787D; 
+    margin-top: 28px;*/
+
+
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    
+    
+    color: #212B31;
+
+    
+}
+.deliver__phrase{
+    
+font-family: 'Inter';
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+
+
+color: #72787D;
+}

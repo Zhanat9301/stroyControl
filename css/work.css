@@ -1,0 +1,71 @@
+.work{
+    width: 1056px;
+    margin-top: 143px;
+    
+}
+
+.work__tittle{
+    
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    color: #212B31;
+}
+.work__description{
+    width: 462px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    color: #72787D;
+    margin-top: 21px;
+}
+.work__png{
+    margin-top: 60px;
+}
+.work__name{
+    
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 17px;
+    color: #212B31;
+}
+.work__include{
+    width: 448px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    color: #72787D;
+}
+.work__item{
+    width: 520px;
+}
+.container{
+
+    display: flex;
+    margin-left: 74px;
+}
+/* .work__li{
+    
+    position: absolute;
+    
+    left: -25px;
+    top: 8px;
+    width: 20px;
+    height: 18px; 
+    background: #FFFFFF;
+    border: 1px solid #DADEDF;
+
+    
+position: absolute;
+width: 7px;
+height: 19px;
+left: 17px;
+top: 11px;
+
+font-family: 'Inter';
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #72787D;
+} */
