@@ -7,7 +7,6 @@
     position: relative;
 }
 .hope__tittle{
-        
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -68,15 +67,8 @@
 .hope__vector{
     
     position: absolute;
-    left: 618px;
-    right: 80px;
-    top: -18px;
-    bottom: 50px; 
-/* 
-    Width:42.13px;
-Height:40.28px;
-Top:5226.48px;
-Left:808px; */
+    top: 10px;
+    left: 620px;
 }
 
  .hope__footer{
